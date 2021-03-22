@@ -394,3 +394,4 @@ For more information, see [Unsafe code and pointers](../csharp/programming-guide
 
 > [!div class="nextstepaction"]
 > [Take a tour of F#](../fsharp/tour.md)
+> 
